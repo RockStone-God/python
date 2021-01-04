@@ -100,3 +100,4 @@ for filename in os.listdir("./Cogs"):
         client.load_extension(f"Cogs.{filename[:-3]}")
 
 client.run("NzQzNzUyNDAyNjI4NTA5NzU3.XzZPZw.dSIEZCAUR5Ksuln6fK3ARq10lSM")
+
